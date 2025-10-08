@@ -1,2 +1,2 @@
 # flappy_bird
-[Watch Demo Video](./falppy_bird.webm)
+![Demo](flappy_bird.gif)
